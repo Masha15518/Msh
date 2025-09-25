@@ -1,0 +1,28 @@
+html {
+	background-color: #80A0A0;
+	padding: 25px 25px;
+}
+p {
+color: #800042;
+}
+h2 {
+font-size: 1.8em;
+background-color: #E339A4;
+padding: 10px 10px 10px 10px;
+margin: 0 0 0 50px;
+}
+body {
+padding: 0 25px;
+}
+.blue1 {
+color: blue;
+}
+#red1 {
+color: red;
+font-size: 1.2em;
+}
+h1 {
+background-image: url(./images/123.svg);
+padding: 150px 0;
+font-size: 4em;
+}
